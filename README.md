@@ -1,4 +1,4 @@
-### Hi there 👋
+[![SidhaarthShree07's GitHub | Stats](https://stats.quine.sh/SidhaarthShree07/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SidhaarthShree07)
 
 <!--
 **SidhaarthShree07/SidhaarthShree07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
